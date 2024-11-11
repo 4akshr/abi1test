@@ -1,7 +1,11 @@
 # abi1test
 contact form
 
-## 開発環境
+## 環境構築
+- Docker-compose.yml
+- create_contact_table
+
+##使用技術
 - laravel 8.x
 
 ##　ER図
